@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 0dade4c3e37b33b52c8298e52dad205fcc51d2f4a75c28dd0380435aec11267b
+-- hash: 7882cb1be18b436bf8a845cfccc13c5c1b40b5cffcc0c0dfaebef12481e9bb43
 
 name:           cli-playground
 version:        0.1.0.0
@@ -30,7 +30,6 @@ library
       Commands.Greet
       Commands.GroupFiles
       Commands.Insult
-      Lib
   other-modules:
       Paths_cli_playground
   hs-source-dirs:
